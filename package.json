@@ -1,0 +1,23 @@
+{
+  "name": "study-record",
+  "version": "1.0.0",
+  "description": "- 自分のブログ（作成予定）やZennなどに投稿する記事を残しておくリポジトリ - `./articles/`と`./books/`はZennに自動デプロイされる - `./myblog/`は自分のブログ用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsym-m/study-record.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsym-m/study-record/issues"
+  },
+  "homepage": "https://github.com/nsym-m/study-record#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.82"
+  }
+}
