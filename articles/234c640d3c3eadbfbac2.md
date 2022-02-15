@@ -1,8 +1,8 @@
 ---
 title: "O'ReillyでGo言語に入門してみた"
-emoji: "😺":innocent:
+emoji: "😺"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["go"]
+topics: ["Go", "入門", "O'Reilly"]
 published: false
 ---
 
